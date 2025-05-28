@@ -1,2 +1,2 @@
-# CV_ObjectDetection
-Fine tuning CNN backbone
+# CV_ComputerVision
+Repository for Computer Vision projects 
